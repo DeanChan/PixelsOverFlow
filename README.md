@@ -33,3 +33,5 @@ Basic idea:
 4. run ```GUI.m```
 
 Happy searching~
+
+More information, see the paper [Euler Two Dimentional Principle Component Analysis](https://www.dropbox.com/s/10uee319yq5a613/Euler%202DPCA.pdf?dl=0)
